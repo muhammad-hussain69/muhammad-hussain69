@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @muhammad-hussain69
+- 🌱 I’m currently learning Ruby on Rails and a bit of Artificial Intelligence.
+- 📫 How to reach me:  mhusain368@gmail.com
